@@ -26,8 +26,6 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [Muse brain sensing headband](http://www.choosemuse.com/) - Headband and companion app for mindfulness meditation.
 - [Sleepio](https://www.sleepio.com/) - Improve your sleep habits and quality.
 - [Ten Percent Happier](https://www.tenpercent.com/) - Web & Mobile app that provides guided meditations on topics ranging from anxiety and stress to parenting and sleep, as well as videos, bite-sized stories, and inspiration you can listen to on the go.
-- [PsywellPath Concepts](https://glossary.psywellpath.com/) - Explore key psychological concepts in one place—clear, concise, and insightful.
-- [Psywell Tools](https://tools.psywellpath.com/) - Discover effective mental health tools for assessment, self-care, and well-being.
 
 
 ### Selfhosted
@@ -39,7 +37,6 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [kuakua.app](https://kuakua.app/) - A platform that collects and shares mental health resources with you.
 - [if-me.org](https://www.if-me.org/) - Platform for sharing your mental health experiences with the people you choose.
 - [Vrendle](https://vrendle.com) - Virtual Reality platform for mental healthcare providers.
-
 ## Resources
 
 ### Books
@@ -91,4 +88,5 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [Students Against Depression](https://studentsagainstdepression.org/) - Blogs, tips and information for and by students.
 - [The Mighty](https://themighty.com) - Stories, articles and news about different mental health topics.
 - [mentalhealth.day](https://mentalhealth.day) - Share this site as your status, out of office email, or on social media when you take a self-care day to normalize and destigmatize mental health.
-- [Psywell Path Blogs](https://blog.psywellpath.com/) - Post, Blog, Articles and news related to mental health.
+- [Psychological Well Being Path](https://psywellpath.com/) - Explore psychological assessment tools, concepts, news, articles in one place—clear, concise, and insightful.
+
